@@ -52,8 +52,9 @@ $(document).ready(function(){
       <div class="col-xs-3 sag-image text-right"><img class="img-responsive img-circle" src="${result.image}"> </div>
       <div class=" col-xs-3 "></div>
       <div class="col-xs-3 bg-callimage">
-      <p id="name">${result.FirstName} ${result.LastName} </p>`;
-      html += `<p id="phone">${result.MobilePhone} </p> 
+      <p id="name">${result.FirstName} ${result.LastName} </p>
+      <p id="phone">${result.MobilePhone} </p>
+      <button></button>
      </div> 
      </div>`;
       $('#contactInfo').html(html);
