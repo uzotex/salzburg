@@ -1,0 +1,77 @@
+[
+	{
+		"PersonalNumber": "12345"
+        , "UserID": "12345"
+        , "FirstName": "Dummy"
+        , "MiddleName": ""
+        , "LastName": "LastDummy"
+        , "Title": "Dr."
+        , "availability": ""
+        , "Area": "XXX"
+        , "Center": "XXXX"
+        , "Email": "XXX@salzburg-ag.at"
+        , "Phone": "1234"
+        , "MobilePhone": "+436604022807"
+        , "Room": "123, Streetname 12"
+        , "image":"https://github.com/uzotex/salzburgProject/blob/master/passport_pic.jpg?raw=true"
+	},
+	{
+	  "PersonalNumber": "15345"
+        , "UserID": "12345"
+        , "FirstName": "John"
+        , "MiddleName": ""
+        , "LastName": "Peace"
+        , "Title": "Ing."
+        , "availability": ""
+        , "Area": "XXX"
+        , "Center": "XXXX"
+        , "Email": "jp@salzburg-ag.at"
+        , "Phone": "1234"
+        , "MobilePhone": "+436767766773"
+        , "Room": "123, Streetname 17"
+        , "image":"https://github.com/uzotex/salzburgProject/blob/master/photo2.jpg?raw=true"
+	},
+	
+	{
+	  "PersonalNumber": "15005"
+        , "UserID": "10045"
+        , "FirstName": "Mark"
+        , "MiddleName": ""
+        , "LastName": "Love"
+        , "Title": "Mr."
+        , "availability": ""
+        , "Area": "XXX"
+        , "Center": "XXXX"
+        , "Email": "ml@salzburg-ag.at"
+        , "Phone": "1234"
+        , "MobilePhone": "+4367761146166"
+        , "Room": "193, Streetname 12"
+        , "image":"https://github.com/uzotex/salzburgProject/blob/master/photo5.jpg?raw=true"
+	},
+	
+	{
+	  "PersonalNumber": "15005"
+        , "UserID": "10045"
+        , "FirstName": "Peter"
+        , "MiddleName": ""
+        , "LastName": "Mantle"
+        , "Title": "Mr."
+        , "availability": ""
+        , "Area": "XXX"
+        , "Center": "XXXX"
+        , "Email": "pl@salzburg-ag.at"
+        , "Phone": "1234"
+        , "MobilePhone": "12345"
+        , "Room": "193, Streetname 12"
+        , "image":"https://github.com/uzotex/salzburgProject/blob/master/photo3.jpg?raw=true"
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	]

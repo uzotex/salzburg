@@ -1,0 +1,97 @@
+/* Styles go here */
+.jumbotron{
+  background-image:url(https://github.com/uzotex/salzburgProject/blob/master/SAG_bg_Image.png?raw=true);
+  height:660px;
+  margin-top:105px;
+  }
+  .navbar{
+    background-color:#FFF;
+    border:none;
+    width:1545px;
+    position:fixed;
+   
+  }
+  .input-group{
+    background-image:url(https://github.com/uzotex/salzburgProject/blob/master/SAG_Searchbox2.png?raw=true);
+    width:904px;
+    height:134px;
+   padding-left:20px;
+   padding-top:1px;
+   
+  }
+  #search{
+    width:730px;
+    height:114px;
+    border:none;
+    font-size:50px;
+    font-family:cursive;
+    
+  }
+    .list-group {
+      width:758px;
+      height:300px;
+      font-size:50px;
+      font-family:cursive;
+       
+      }
+      .list-group-item {
+        background-color:#F6FBFD;
+        cursor:pointer;
+      }
+      #submit{
+        height:100px;
+        width:113px;
+        background: transparent;
+        border: none;
+        font-size:0;
+        margin-right:15px;
+        margin-top:2px;
+        margin-bottom:30px;
+   
+ }
+ .bg-image{
+   background-image:url(https://github.com/uzotex/salzburgProject/blob/master/SAG_bg_image2.png?raw=true);
+   height:660px;
+   
+ }
+ .bg-callimage{
+   background-image:url(https://github.com/uzotex/salzburgProject/blob/master/SAG_call.png?raw=true);
+   width:760px;
+   height:544px;
+   font-size:50px;
+   font-family:cursive;
+   text-align:justify;
+   
+ }
+ #name{
+   margin-left:40px;
+   position:relative;
+   top:50px;
+  
+ }
+ 
+ #phone{
+   margin-left:40px;
+   position:relative;
+   top:50px;
+  
+ }
+ .sag-image{
+   background-image:url(https://github.com/uzotex/salzburgProject/blob/master/SAG_image.png?raw=true);
+   width:423px;
+   height:426px;
+ }
+ .img-circle{
+   width:350px;
+   height:350px;
+   position:relative;
+   top:35px;
+   left:20px;
+   border:20px solid #FFF;
+ }
+  
+  
+ 
+     
+     
+  
