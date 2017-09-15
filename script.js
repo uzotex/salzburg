@@ -54,9 +54,9 @@ $(document).ready(function(){
       <div class="col-xs-3 bg-callimage">
       <p id="name">${result.FirstName} ${result.LastName} </p>
       <p id="phone">${result.MobilePhone} </p>
-      <button></button>
-     </div> 
-     </div>`;
+      <a href="tel:${result.MobilePhone}" ><button id ="call-btn" class"btn"></button></a>
+      </div> 
+      </div>`;
       $('#contactInfo').html(html);
 });
       

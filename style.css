@@ -89,7 +89,14 @@
    left:20px;
    border:20px solid #FFF;
  }
-  
+#call-btn{
+        height:105px;
+        width:370px;
+        margin-left:176px;
+        margin-top:170px;
+        margin-bottom:30px;
+        background: transparent;
+}
   
  
      
